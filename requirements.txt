@@ -1,0 +1,6 @@
+qiskit[visualization]>=2.5
+numpy
+matplotlib
+jupyter
+# Optional for Week 14:
+# qiskit-aer
